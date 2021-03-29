@@ -12,3 +12,7 @@ The reader is encouraged to read through the [final research report](https://git
 ## What needs work?
 1. While most of the mathematics is optimized, the code itself needs some clever optimization to speed up the sampling process.
 2. The proximal gradient schemes can be better organized to enable ease of import and diversification.
+
+## What could be coming up?
+
+With the research group taking an avid interest in Stochastic Differential Equations this semester; there could be potential applications towards sparse stochastic processes which has tremendous applications in compressed sensing techniques. Another potential avenue of exploration could be the really neat stuff outlined in [this paper](https://www.math.fsu.edu/~aluffi/archive/paper392.pdf). 
