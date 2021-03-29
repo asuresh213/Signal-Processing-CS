@@ -11,3 +11,4 @@ The reader is encouraged to read through the [final research report](https://git
 
 ## What needs work?
 1. While most of the mathematics is optimized, the code itself needs some clever optimization to speed up the sampling process.
+2. The proximal gradient schemes can be better organized to enable ease of import and diversification.
